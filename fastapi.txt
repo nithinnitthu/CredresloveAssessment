@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+gtts
+sentence-transformers
+scikit-learn
+numpy
+aiofiles
+pytest
+requests
+sqlalchemy
+alembic
+openai
