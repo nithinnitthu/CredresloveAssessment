@@ -8,6 +8,13 @@ This repo contains a PoC voice-first agent for Telugu, now with:
 - Docker + docker-compose to run backend + frontend
 - Instructions in backend/.env.example for toggling LLM provider
 
+## 🚀 Project Output
+
+the links of my project i histed on online 
+[![Project Output](https://i.ibb.co/whRNmCtM/output-of-the-project.jpg)](https://ibb.co/d4r0Y6ZG)
+
+
+
 Quickstart (Docker)
 1. Build and run:
    docker-compose up --build
