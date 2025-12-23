@@ -1,4 +1,4 @@
-🎙️ Cred-Resolve-Assessment
+# Cred-Resolve-Assessment🎙️
 Telugu Voice-First Agent (PoC)
 
 A voice-first conversational agent Proof of Concept designed specifically for Telugu language interaction.
