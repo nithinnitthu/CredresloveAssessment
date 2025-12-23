@@ -10,7 +10,7 @@ This repo contains a PoC voice-first agent for Telugu, now with:
 
 ## 🚀 Project Output
 
-the links of my project i histed on online 
+The links to my project that I hosted on...online 
 (https://ibb.co/d4r0Y6ZG)
 
 
